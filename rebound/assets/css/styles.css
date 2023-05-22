@@ -1,0 +1,51 @@
+.bgOwn {
+  background-color: #4f61d2;
+  border: #3091ff solid thick;
+}
+
+.inputOwn {
+  outline: none;
+  border: none;
+  appearance: none;
+  color: white;
+  background: 
+  linear-gradient(90deg, #3091ff, #3091ff) center bottom/100% 10px no-repeat,
+  linear-gradient(90deg, #4f61d2, #4f61d2) left bottom/100% no-repeat;
+} 
+
+label {
+  color: #3091ff;
+  font-weight: 500;
+}
+
+h1 {
+  color: aliceblue;
+  font-size: larger;
+}
+
+h4 {
+  color: aliceblue;
+  font-size: medium;
+}
+
+button {
+  background-color: #4f61d2;
+  color: white;
+  border: solid white thin;
+}
+
+.modal-content {
+  background-color: rgba(0,0,0,35%) !important;
+  color: white;
+}
+
+#call {
+  background-color: #3091ff;
+  border: none;
+}
+
+#sentEmail {
+  background-color: rgba(0,0,0,35%) !important;
+  color: white;
+  border: solid white;
+}
